@@ -65,7 +65,6 @@ public class Main {
 //        entityManager.persist(client);
 
         //Two constraints one to many
-
         Bank bank1 = new Bank();
         bank1.setName("private");
         entityManager.persist(bank1);

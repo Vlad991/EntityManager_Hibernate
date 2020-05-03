@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EntityManager_Hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/EntityManager_Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EntityManager_Hibernate.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EntityManager_Hibernate.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EntityManager_Hibernate.test.iml" filepath="$PROJECT_DIR$/.idea/modules/EntityManager_Hibernate.test.iml" />
+    </modules>
+  </component>
+</project>
